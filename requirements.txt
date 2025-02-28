@@ -1,0 +1,7 @@
+# board_app/requirements.txt
+fastapi
+uvicorn
+python-multipart
+SQLAlchemy
+aiosqlite
+pydantic
